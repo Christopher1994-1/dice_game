@@ -1,4 +1,4 @@
 # dice_game
 A simple Dice Game 
 
-![](images/
+![](app_images/
